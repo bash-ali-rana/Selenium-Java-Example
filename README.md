@@ -2,6 +2,6 @@
 Test example using selenium with java.
 
 ## Usage:
-To run tests in headless mode:
+To run tests:
 
 ``` mvn test ```
